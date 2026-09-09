@@ -1,5 +1,5 @@
 ## Hi I'm Vlad 👋
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mysarablyady)
+Связь со мной: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mysarablyady)
 <!--
 **DimaPoseydon/DimaPoseydon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
